@@ -2,6 +2,9 @@
 Hi, this is my Tic Tac Toe project. I created this game using HTML, CSS and JavaScript.
 In this game, you can play with another player or play against the computer. I also added different difficulty levels to make the game more interesting.
 
+## Screenshot
+![Tic Tac Toe Game](screenshots/gameplay.png)
+
 ## Features
 - Play with 2 players.
 - Play against the computer.
